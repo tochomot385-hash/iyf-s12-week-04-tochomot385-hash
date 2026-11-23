@@ -4,7 +4,8 @@
 A JavaScript project with a calculator, a student grade tracker, practice tasks (Tasks 7.1-8.4), and 5 daily challenges.
 
 ## Live Demo
-Open index.html with Live Server, then press F12 → Console to see the output.
+Live Demo: https://tochomot385-hash.github.io/iyf-s12-week-04-tochomot385-hash/
+Open the link - output is shown on the page.
 
 ## Features
 - Calculator with add, subtract, multiply, divide, %, ** and zero-division check
